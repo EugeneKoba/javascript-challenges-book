@@ -22,7 +22,7 @@ console.log(JSON.stringify(arr));
 What will be shown in the console if we execute Snippet 1?
 
 ```js
-
+[null,null,null,null,null,null,null,null,null,null]
 ```
 
 ```js
@@ -64,7 +64,7 @@ console.log(arr.toString());
 What will be shown in the console if we execute Snippet 2?
 
 ```js
-
+[,,,,,,,,,]
 ```
 
 ```js
